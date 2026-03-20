@@ -58,7 +58,7 @@ Teams may register up to 5 players and 1 coach. The roster is locked fourteen da
 
 In line with Valve’s guidelines for Tier 2 events, **DraculaN Season 6** will use VRS rankings to seed teams into the Main Event. Once registration closes (approximately two weeks before the event), the top 8 teams by VRS rank among the registered teams will be seeded directly into the Main Event bracket.
 
-The seeding shall be based on the **official VRS rankings released by Valve in February**. This seeding is applied regardless of whether a registered team is in the VRS top 12, as the restriction on inviting top 12 teams applies only to closed or direct invitation formats, not to open sign-up events. The remaining registered teams will begin in the Open LAN Group Stage on Day 1 to earn their place in the Main Event.
+The seeding shall be based on the **official VRS rankings released by Valve in March**. This seeding is applied regardless of whether a registered team is in the VRS top 12, as the restriction on inviting top 12 teams applies only to closed or direct invitation formats, not to open sign-up events. The remaining registered teams will begin in the Open LAN Group Stage on Day 1 to earn their place in the Main Event.
 
 ### **Check-in:**
 
